@@ -33,3 +33,7 @@ Visit [Tina's documentation](https://tina.io/docs/) to learn more.
 [![Forum](https://shields.io/github/discussions/tinacms/tinacms)](https://github.com/tinacms/tinacms/discussions)
 
 Visit the [GitHub Discussions](https://github.com/tinacms/tinacms/discussions) or our [Community Discord](https://discord.com/invite/zumN63Ybpf) to ask questions, or look us up on on Twitter at [@tinacms](https://twitter.com/tinacms).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tinacms/tinacms&type=Date)](https://star-history.com/#tinacms/tinacms&Date)
